@@ -1,0 +1,26 @@
+﻿
+@media only screen and (max-width: 40.063em) {
+.right-head-block-menu { position: absolute; right: 0; }
+main { padding: 10px 0; }
+.main-menu-block { border: medium none; }
+.not-front .row.full-width.main { position: relative; top: auto; }
+.row.full-width-slider { padding: 0; top: 0; }
+.md-arrow-left, .md-arrow-right { top: 23%; }
+.block.large-6-left { float: left; width: 100%; }
+.block.large-6-right { float: right; width: 100%; }
+.slogan-banner-block p { font-size: 1.1em; }
+.homepage-funding-opp-block, .homepage-latest-news-block { width: 100%; margin:10px 0; }
+}
+
+@media only screen and (max-width: 767px) {
+.row.full-width.header { height: auto; }
+.left-head-block { margin: 5px 0; }
+.minibar .right-banner-block { padding: 10px 10px 0; }
+.right-head-block-menu { position: absolute; right: 0; top: 0; }
+.main-menu-block { border-width: 0; top: 35px; }
+.top-header-links { width: 100% !important; text-align: right; }
+    .right-search-block { display: none; }
+}
+
+@media only screen and (max-width: 64.063em) {
+}
