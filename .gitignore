@@ -1,5 +1,6 @@
 # custom ignore
 sites/all/libraries/fontawesome/Gemfile.lock
+sites/all/libraries/fontawesome/Gemfile
 
 # Ignore configuration files that may contain sensitive information.
 sites/*/*settings*.php
